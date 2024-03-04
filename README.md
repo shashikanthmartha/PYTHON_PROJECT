@@ -1,4 +1,6 @@
 pip install Flask Flask-Bcrypt Flask-MySQL
+pip install Flask-MySQLdb
+
 
 
 in frontend 
